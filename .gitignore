@@ -1,0 +1,8 @@
+/target/
+/config/
+/bin/
+/build/
+.DS_Store
+.settings
+*.zip
+*.jar
